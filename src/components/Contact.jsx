@@ -29,7 +29,7 @@ export default function Contact() {
           {[
             { label: 'Email', value: 'chakravarthikudupudi@gmail.com', icon: '✉', href: 'mailto:chakravarthikudupudi@gmail.com' },
             { label: 'Phone', value: '+91 9490919750', icon: '📞', href: 'tel:+919490919750' },
-            { label: 'GitHub', value: 'github.com/chakrirailtelit', icon: '⚙', href: 'https://github.com/chakri-railtelit' },
+            { label: 'GitHub', value: 'github.com/chakrirailtelit', icon: '⚙', href: 'https://github.com/ksschakravarthi' },
           ].map((c) => (
             <a
               key={c.label}
