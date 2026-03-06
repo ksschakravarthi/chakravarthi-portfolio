@@ -41,7 +41,7 @@ function downloadResume(theme) {
   <span>📧 chakravarthikudupudi@gmail.com</span>
   <span>📞 +91 9490919750</span>
   <span>📍 Hyderabad, Telangana</span>
-  <span>🐙 https://github.com/chakri-railtelit</span>
+  <span>🐙 https://github.com/ksschakravarthi</span>
 </div>
 
 <div class="section-title">Professional Summary</div>
